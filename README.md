@@ -10,5 +10,6 @@ Project to connect with Arduino via bluetooth.
 
 
 Some limitations in the MIT App inventor:
+- If you want to modify the code, upload the .aia to the mit App Inventor website.
 - If Arduino turns it off, the app don't immediately show an error. It will happen in the next time you press a button.
 - You have to press the buttons with a 2 seconds interval. If you press 2 buttons quickly, Arduino will not recognize which command has been sent. If it happens, you have to turn off the buttons and press one at time.
